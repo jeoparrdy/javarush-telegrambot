@@ -1,1 +1,9 @@
-D:\JavaProjects\javarush-telegrambot\src\test\java\com\github\javarushcommunity\jrtb\JavarushTelegramBotApplicationTests.java
+/home/jeoparrdy/IdeaProjects/javarush-telegrambot/src/test/java/com/github/javarushcommunity/jrtb/SendBotMessageServiceTest.java
+/home/jeoparrdy/IdeaProjects/javarush-telegrambot/src/test/java/com/github/javarushcommunity/jrtb/StopCommandTest.java
+/home/jeoparrdy/IdeaProjects/javarush-telegrambot/src/test/java/com/github/javarushcommunity/jrtb/CommandContainerTest.java
+/home/jeoparrdy/IdeaProjects/javarush-telegrambot/src/test/java/com/github/javarushcommunity/jrtb/AbstractCommandTest.java
+/home/jeoparrdy/IdeaProjects/javarush-telegrambot/src/test/java/com/github/javarushcommunity/jrtb/UnknownCommandTest.java
+/home/jeoparrdy/IdeaProjects/javarush-telegrambot/src/test/java/com/github/javarushcommunity/jrtb/StartCommandTest.java
+/home/jeoparrdy/IdeaProjects/javarush-telegrambot/src/test/java/com/github/javarushcommunity/jrtb/HelpCommandTest.java
+/home/jeoparrdy/IdeaProjects/javarush-telegrambot/src/test/java/com/github/javarushcommunity/jrtb/NoCommandTest.java
+/home/jeoparrdy/IdeaProjects/javarush-telegrambot/src/test/java/com/github/javarushcommunity/jrtb/JavarushTelegramBotApplicationTests.java

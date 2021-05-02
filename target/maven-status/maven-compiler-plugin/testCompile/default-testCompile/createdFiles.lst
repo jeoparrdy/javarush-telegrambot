@@ -1,1 +1,9 @@
-com\github\javarushcommunity\jrtb\JavarushTelegramBotApplicationTests.class
+com/github/javarushcommunity/jrtb/UnknownCommandTest.class
+com/github/javarushcommunity/jrtb/CommandContainerTest.class
+com/github/javarushcommunity/jrtb/AbstractCommandTest.class
+com/github/javarushcommunity/jrtb/SendBotMessageServiceTest.class
+com/github/javarushcommunity/jrtb/StopCommandTest.class
+com/github/javarushcommunity/jrtb/NoCommandTest.class
+com/github/javarushcommunity/jrtb/JavarushTelegramBotApplicationTests.class
+com/github/javarushcommunity/jrtb/HelpCommandTest.class
+com/github/javarushcommunity/jrtb/StartCommandTest.class
