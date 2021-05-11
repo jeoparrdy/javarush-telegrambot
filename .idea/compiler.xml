@@ -10,7 +10,7 @@
         <module name="javarush-telegrambot" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="11">
       <module name="javarush-telegrambot" target="11" />
     </bytecodeTargetLevel>
   </component>
