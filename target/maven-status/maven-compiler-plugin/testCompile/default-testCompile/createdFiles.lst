@@ -6,4 +6,5 @@ com/github/javarushcommunity/jrtb/StopCommandTest.class
 com/github/javarushcommunity/jrtb/NoCommandTest.class
 com/github/javarushcommunity/jrtb/JavarushTelegramBotApplicationTests.class
 com/github/javarushcommunity/jrtb/HelpCommandTest.class
+com/github/javarushcommunity/jrtb/StatCommandTest.class
 com/github/javarushcommunity/jrtb/StartCommandTest.class

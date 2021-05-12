@@ -1,12 +1,17 @@
 com/github/javarushcommunity/jrtb/command/Command.class
+com/github/javarushcommunity/jrtb/service/TelegramUserServiceImpl.class
 com/github/javarushcommunity/jrtb/command/HelpCommand.class
 com/github/javarushcommunity/jrtb/command/UnknownCommand.class
 com/github/javarushcommunity/jrtb/command/StartCommand.class
 com/github/javarushcommunity/jrtb/service/SendBotMessageService.class
+com/github/javarushcommunity/jrtb/repository/TelegramUserRepository.class
 com/github/javarushcommunity/jrtb/service/SendBotMessageServiceImpl.class
 com/github/javarushcommunity/jrtb/bot/JavaRushTelegramBot.class
 com/github/javarushcommunity/jrtb/command/StopCommand.class
+com/github/javarushcommunity/jrtb/repository/entity/TelegramUser.class
+com/github/javarushcommunity/jrtb/service/TelegramUserService.class
 com/github/javarushcommunity/jrtb/command/NoCommand.class
 com/github/javarushcommunity/jrtb/command/CommandName.class
+com/github/javarushcommunity/jrtb/command/StatCommand.class
 com/github/javarushcommunity/jrtb/JavarushTelegramBotApplication.class
 com/github/javarushcommunity/jrtb/command/CommandContainer.class
